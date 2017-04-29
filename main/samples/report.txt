@@ -1,0 +1,47 @@
+==============================================
+REPORT BUILT FOR Report for face detection
+==============================================
+Algorithm: test
+Dataset: test
+Dataset files count: 6
+Date: Sun May 15 14:42:57 2016
+
+==============================================
+SOFTWARE INFO
+==============================================
+Platform: Linux-3.16.0-4-amd64-x86_64-with-debian-jessie-sid
+Python version: 3.5.1 |Continuum Analytics, Inc.| (default, Dec  7 2015, 11:16:01) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)]
+
+==============================================
+HARDWARE INFO
+==============================================
+CPU model: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+CPU cores: 8
+CPU core threads: 16
+RAM memory: 63.56642165927022 GiB 
+
+==============================================
+OVERALL INFO
+==============================================
+Total time spent: 12 seconds (0 hours, 0 minutes and 12 seconds)
+Total true positives: 6
+Total false positives: 0
+Total false negatives: 6
+Total faces in dataset: 132
+Accuracy: 50.0%
+True positive rate: 50.0%
+False positive rate: 0.0%
+False negative rate: 50.0%
+Precision rate: 100.0%
+
+==============================================
+CSV LINES
+==============================================
+image_id, total_faces_in_image, total_detected_faces_in_image, time_spent, true_positives, false_positives, false_negatives
+123, 22, 1, 2, 1, 0, 1
+123, 22, 1, 2, 1, 0, 1
+123, 22, 1, 2, 1, 0, 1
+123, 22, 1, 2, 1, 0, 1
+123, 22, 1, 2, 1, 0, 1
+123, 22, 1, 2, 1, 0, 1
